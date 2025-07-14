@@ -89,7 +89,13 @@ This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data 
 ---
 
 ## 📁 How to View the Dashboards
+### Option 1: View Here
+1. Fukita Sales Analysis Dashboard
+![Fukita Sales Analysis](./assests/Fukita_Sales_Analysis_Dashboard.png)
+2. Fukita Product Analysis Dashboard
+![Fukita Product Analysis](./assests/Fukita_Product_Analysis_Dashboard.png)
 
+### Option 2: Instructions to Open the File
 1. Ensure you have **Microsoft Power BI Desktop** installed.  
 2. **Download** the `.pbix` file from this repository.  
 3. **Open** the file using Power BI Desktop to interact with the dashboards.
