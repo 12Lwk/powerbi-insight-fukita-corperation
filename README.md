@@ -50,4 +50,59 @@ This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data 
 **Key Highlights:**
 
 - **Total Profit:** $12.55M  
-- **Gross**
+- **Gross Profit Margin (GPM):** 11.43% overall  
+- **Internet Sales GPM:** 41.15%  
+- **Reseller Sales GPM:** 0.58%  
+- **Sales Peak:** $41.59M in 2012  
+- **Sales Decline:** $26.39M in 2013  
+- **Top Market:** United States ($63.00M)  
+- **Seasonal Trend:** Strong Q4 sales every year
+
+---
+
+### 2️⃣ Fukita Product Analysis Dashboard
+
+**Key Highlights:**
+
+- **Total Quantity Sold:** 274.78K units  
+- **Total Revenue:** $109.81M  
+- **Top Category:** Bikes (90.22K units)  
+- **Top Subcategories:** Road Bikes & Mountain Bikes  
+- **Key Market for Bikes:** Europe
+
+---
+
+## ✅ Strategic Recommendations
+
+- **Enhance Internet Sales:**  
+  Invest in digital marketing and UX to grow the high-GPM online channel.
+
+- **Reassess Reseller Strategy:**  
+  Improve GPM through better agreements, support, or cost controls.
+
+- **Double Down on Key Markets:**  
+  Focus efforts on the United States and tailor regional strategies, especially in Europe.
+
+- **Leverage Q4 Trends:**  
+  Align promotional campaigns with seasonal sales peaks.
+
+---
+
+## 📁 How to View the Dashboards
+
+### Option 1: Online Report  
+> **[🔗 View the Interactive Report on Power BI Service](#)**
+
+### Option 2: Open Locally  
+1. Download the `.pbix` file from this repository.  
+2. Install Microsoft Power BI Desktop.  
+3. Open the `.pbix` file to interact with the dashboards.
+
+---
+
+## 👨‍💻 Author
+
+**Lee Wen Kang**  
+[Connect on LinkedIn](https://www.linkedin.com/in/lee-wen-kang-3b76b6188/)
+
+---
