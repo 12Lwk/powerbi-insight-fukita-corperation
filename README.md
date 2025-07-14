@@ -90,13 +90,9 @@ This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data 
 
 ## 📁 How to View the Dashboards
 
-### Option 1: Online Report  
-> **[🔗 View the Interactive Report on Power BI Service](#)**
-
-### Option 2: Open Locally  
-1. Download the `.pbix` file from this repository.  
-2. Install Microsoft Power BI Desktop.  
-3. Open the `.pbix` file to interact with the dashboards.
+1. Ensure you have **Microsoft Power BI Desktop** installed.  
+2. **Download** the `.pbix` file from this repository.  
+3. **Open** the file using Power BI Desktop to interact with the dashboards.
 
 ---
 
