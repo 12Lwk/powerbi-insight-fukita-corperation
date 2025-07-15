@@ -105,6 +105,6 @@ This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data 
 ## 👨‍💻 Author
 
 **Lee Wen Kang**  
-[Connect on LinkedIn](https://www.linkedin.com/in/lee-wen-kang-3b76b6188/)
+[Connect on LinkedIn](https://www.linkedin.com/in/leewenkang12/)
 
 ---
